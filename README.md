@@ -1,2 +1,2 @@
 # Junior-CS-Projects
-The chat application is a simple console Application wher a user can enter as an Admin , simple user , viewer or a user tha tcan delete messages 
+This repository includes A Simple Netflix Application based on the ASP.NET MVC , Architecture and a simple console application that represents a simple chat application , that interacts with a database .
