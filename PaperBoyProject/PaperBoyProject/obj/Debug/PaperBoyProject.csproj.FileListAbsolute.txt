@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\Coding Bootcamp 5\C#_Projects\PaperBoyProject\PaperBoyProject\bin\Debug\PaperBoyProject.exe.config
+C:\Users\HP\Desktop\Coding Bootcamp 5\C#_Projects\PaperBoyProject\PaperBoyProject\bin\Debug\PaperBoyProject.exe
+C:\Users\HP\Desktop\Coding Bootcamp 5\C#_Projects\PaperBoyProject\PaperBoyProject\bin\Debug\PaperBoyProject.pdb
+C:\Users\HP\Desktop\Coding Bootcamp 5\C#_Projects\PaperBoyProject\PaperBoyProject\obj\Debug\PaperBoyProject.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Coding Bootcamp 5\C#_Projects\PaperBoyProject\PaperBoyProject\obj\Debug\PaperBoyProject.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Coding Bootcamp 5\C#_Projects\PaperBoyProject\PaperBoyProject\obj\Debug\PaperBoyProject.exe
+C:\Users\HP\Desktop\Coding Bootcamp 5\C#_Projects\PaperBoyProject\PaperBoyProject\obj\Debug\PaperBoyProject.pdb
