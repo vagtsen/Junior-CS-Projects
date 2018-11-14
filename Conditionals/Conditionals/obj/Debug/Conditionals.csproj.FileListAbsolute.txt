@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\Coding Bootcamp 5\C#_Projects\Conditionals\Conditionals\bin\Debug\Conditionals.exe.config
+C:\Users\HP\Desktop\Coding Bootcamp 5\C#_Projects\Conditionals\Conditionals\bin\Debug\Conditionals.exe
+C:\Users\HP\Desktop\Coding Bootcamp 5\C#_Projects\Conditionals\Conditionals\bin\Debug\Conditionals.pdb
+C:\Users\HP\Desktop\Coding Bootcamp 5\C#_Projects\Conditionals\Conditionals\obj\Debug\Conditionals.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Coding Bootcamp 5\C#_Projects\Conditionals\Conditionals\obj\Debug\Conditionals.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Coding Bootcamp 5\C#_Projects\Conditionals\Conditionals\obj\Debug\Conditionals.exe
+C:\Users\HP\Desktop\Coding Bootcamp 5\C#_Projects\Conditionals\Conditionals\obj\Debug\Conditionals.pdb
