@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\Coding Bootcamp 5\C#_Projects\ExceptionsDemo\ExceptionsDemo\bin\Debug\ExceptionsDemo.exe.config
+C:\Users\HP\Desktop\Coding Bootcamp 5\C#_Projects\ExceptionsDemo\ExceptionsDemo\bin\Debug\ExceptionsDemo.exe
+C:\Users\HP\Desktop\Coding Bootcamp 5\C#_Projects\ExceptionsDemo\ExceptionsDemo\bin\Debug\ExceptionsDemo.pdb
+C:\Users\HP\Desktop\Coding Bootcamp 5\C#_Projects\ExceptionsDemo\ExceptionsDemo\obj\Debug\ExceptionsDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Coding Bootcamp 5\C#_Projects\ExceptionsDemo\ExceptionsDemo\obj\Debug\ExceptionsDemo.exe
+C:\Users\HP\Desktop\Coding Bootcamp 5\C#_Projects\ExceptionsDemo\ExceptionsDemo\obj\Debug\ExceptionsDemo.pdb
+C:\Users\HP\Desktop\Coding Bootcamp 5\C#_Projects\ExceptionsDemo\ExceptionsDemo\obj\Debug\ExceptionsDemo.csprojAssemblyReference.cache
+D:\Coding Bootcamp 5\C#_Projects\ExceptionsDemo\ExceptionsDemo\bin\Debug\ExceptionsDemo.exe.config
+D:\Coding Bootcamp 5\C#_Projects\ExceptionsDemo\ExceptionsDemo\bin\Debug\ExceptionsDemo.exe
+D:\Coding Bootcamp 5\C#_Projects\ExceptionsDemo\ExceptionsDemo\bin\Debug\ExceptionsDemo.pdb
+D:\Coding Bootcamp 5\C#_Projects\ExceptionsDemo\ExceptionsDemo\obj\Debug\ExceptionsDemo.csproj.CoreCompileInputs.cache
+D:\Coding Bootcamp 5\C#_Projects\ExceptionsDemo\ExceptionsDemo\obj\Debug\ExceptionsDemo.exe
+D:\Coding Bootcamp 5\C#_Projects\ExceptionsDemo\ExceptionsDemo\obj\Debug\ExceptionsDemo.pdb
