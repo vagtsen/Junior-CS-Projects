@@ -1,0 +1,14 @@
+C:\Users\poli\Documents\Bootcamp5\ClassOnProjects\AggregationComposition\AggregationComposition\obj\Debug\AggregationComposition.csprojAssemblyReference.cache
+C:\Users\poli\Documents\Bootcamp5\ClassOnProjects\AggregationComposition\AggregationComposition\obj\Debug\AggregationComposition.csproj.CoreCompileInputs.cache
+C:\Users\poli\Documents\Bootcamp5\ClassOnProjects\AggregationComposition\AggregationComposition\bin\Debug\AggregationComposition.exe.config
+C:\Users\poli\Documents\Bootcamp5\ClassOnProjects\AggregationComposition\AggregationComposition\bin\Debug\AggregationComposition.exe
+C:\Users\poli\Documents\Bootcamp5\ClassOnProjects\AggregationComposition\AggregationComposition\bin\Debug\AggregationComposition.pdb
+C:\Users\poli\Documents\Bootcamp5\ClassOnProjects\AggregationComposition\AggregationComposition\obj\Debug\AggregationComposition.exe
+C:\Users\poli\Documents\Bootcamp5\ClassOnProjects\AggregationComposition\AggregationComposition\obj\Debug\AggregationComposition.pdb
+C:\Users\HP\Desktop\Coding Bootcamp_5\C#_Projects\AggregationComposition\AggregationComposition\AggregationComposition\bin\Debug\AggregationComposition.exe.config
+C:\Users\HP\Desktop\Coding Bootcamp_5\C#_Projects\AggregationComposition\AggregationComposition\AggregationComposition\bin\Debug\AggregationComposition.exe
+C:\Users\HP\Desktop\Coding Bootcamp_5\C#_Projects\AggregationComposition\AggregationComposition\AggregationComposition\bin\Debug\AggregationComposition.pdb
+C:\Users\HP\Desktop\Coding Bootcamp_5\C#_Projects\AggregationComposition\AggregationComposition\AggregationComposition\obj\Debug\AggregationComposition.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Coding Bootcamp_5\C#_Projects\AggregationComposition\AggregationComposition\AggregationComposition\obj\Debug\AggregationComposition.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Coding Bootcamp_5\C#_Projects\AggregationComposition\AggregationComposition\AggregationComposition\obj\Debug\AggregationComposition.exe
+C:\Users\HP\Desktop\Coding Bootcamp_5\C#_Projects\AggregationComposition\AggregationComposition\AggregationComposition\obj\Debug\AggregationComposition.pdb
