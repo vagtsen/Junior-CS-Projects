@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\Coding Bootcamp 5\C#_Projects\StringsDemo\StringsDemo\bin\Debug\StringsDemo.exe.config
+C:\Users\HP\Desktop\Coding Bootcamp 5\C#_Projects\StringsDemo\StringsDemo\bin\Debug\StringsDemo.exe
+C:\Users\HP\Desktop\Coding Bootcamp 5\C#_Projects\StringsDemo\StringsDemo\bin\Debug\StringsDemo.pdb
+C:\Users\HP\Desktop\Coding Bootcamp 5\C#_Projects\StringsDemo\StringsDemo\obj\Debug\StringsDemo.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Coding Bootcamp 5\C#_Projects\StringsDemo\StringsDemo\obj\Debug\StringsDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Coding Bootcamp 5\C#_Projects\StringsDemo\StringsDemo\obj\Debug\StringsDemo.exe
+C:\Users\HP\Desktop\Coding Bootcamp 5\C#_Projects\StringsDemo\StringsDemo\obj\Debug\StringsDemo.pdb
