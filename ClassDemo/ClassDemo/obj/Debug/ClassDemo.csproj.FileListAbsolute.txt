@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\Coding Bootcamp 5\C#_Projects\ClassDemo\ClassDemo\bin\Debug\ClassDemo.exe.config
+C:\Users\HP\Desktop\Coding Bootcamp 5\C#_Projects\ClassDemo\ClassDemo\bin\Debug\ClassDemo.exe
+C:\Users\HP\Desktop\Coding Bootcamp 5\C#_Projects\ClassDemo\ClassDemo\bin\Debug\ClassDemo.pdb
+C:\Users\HP\Desktop\Coding Bootcamp 5\C#_Projects\ClassDemo\ClassDemo\obj\Debug\ClassDemo.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Coding Bootcamp 5\C#_Projects\ClassDemo\ClassDemo\obj\Debug\ClassDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Coding Bootcamp 5\C#_Projects\ClassDemo\ClassDemo\obj\Debug\ClassDemo.exe
+C:\Users\HP\Desktop\Coding Bootcamp 5\C#_Projects\ClassDemo\ClassDemo\obj\Debug\ClassDemo.pdb
