@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\Coding Bootcamp 5\C#_Projects\DateTimeDemos\DateTimeDemos\bin\Debug\DateTimeDemos.exe.config
+C:\Users\HP\Desktop\Coding Bootcamp 5\C#_Projects\DateTimeDemos\DateTimeDemos\bin\Debug\DateTimeDemos.exe
+C:\Users\HP\Desktop\Coding Bootcamp 5\C#_Projects\DateTimeDemos\DateTimeDemos\bin\Debug\DateTimeDemos.pdb
+C:\Users\HP\Desktop\Coding Bootcamp 5\C#_Projects\DateTimeDemos\DateTimeDemos\obj\Debug\DateTimeDemos.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Coding Bootcamp 5\C#_Projects\DateTimeDemos\DateTimeDemos\obj\Debug\DateTimeDemos.exe
+C:\Users\HP\Desktop\Coding Bootcamp 5\C#_Projects\DateTimeDemos\DateTimeDemos\obj\Debug\DateTimeDemos.pdb
+C:\Users\HP\Desktop\Coding Bootcamp 5\C#_Projects\DateTimeDemos\DateTimeDemos\obj\Debug\DateTimeDemos.csprojAssemblyReference.cache
