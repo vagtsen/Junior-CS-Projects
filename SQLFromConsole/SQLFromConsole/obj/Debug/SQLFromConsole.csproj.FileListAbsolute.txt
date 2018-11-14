@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\Coding Bootcamp_5\C#_Projects\SQLFromConsole\SQLFromConsole\bin\Debug\SQLFromConsole.exe.config
+C:\Users\HP\Desktop\Coding Bootcamp_5\C#_Projects\SQLFromConsole\SQLFromConsole\bin\Debug\SQLFromConsole.exe
+C:\Users\HP\Desktop\Coding Bootcamp_5\C#_Projects\SQLFromConsole\SQLFromConsole\bin\Debug\SQLFromConsole.pdb
+C:\Users\HP\Desktop\Coding Bootcamp_5\C#_Projects\SQLFromConsole\SQLFromConsole\obj\Debug\SQLFromConsole.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Coding Bootcamp_5\C#_Projects\SQLFromConsole\SQLFromConsole\obj\Debug\SQLFromConsole.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Coding Bootcamp_5\C#_Projects\SQLFromConsole\SQLFromConsole\obj\Debug\SQLFromConsole.exe
+C:\Users\HP\Desktop\Coding Bootcamp_5\C#_Projects\SQLFromConsole\SQLFromConsole\obj\Debug\SQLFromConsole.pdb
