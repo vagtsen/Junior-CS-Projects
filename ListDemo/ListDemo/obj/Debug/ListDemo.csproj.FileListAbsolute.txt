@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Coding Bootcamp 5\C#_Projects\ListDemo\ListDemo\bin\Debug\ListDemo.exe.config
+C:\Users\HP\Desktop\Coding Bootcamp 5\C#_Projects\ListDemo\ListDemo\bin\Debug\ListDemo.exe
+C:\Users\HP\Desktop\Coding Bootcamp 5\C#_Projects\ListDemo\ListDemo\bin\Debug\ListDemo.pdb
+C:\Users\HP\Desktop\Coding Bootcamp 5\C#_Projects\ListDemo\ListDemo\obj\Debug\ListDemo.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Coding Bootcamp 5\C#_Projects\ListDemo\ListDemo\obj\Debug\ListDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Coding Bootcamp 5\C#_Projects\ListDemo\ListDemo\obj\Debug\ListDemo.exe
+C:\Users\HP\Desktop\Coding Bootcamp 5\C#_Projects\ListDemo\ListDemo\obj\Debug\ListDemo.pdb
+C:\Users\HP\Desktop\Coding Bootcamp_5\C#_Projects\ListDemo\ListDemo\bin\Debug\ListDemo.exe.config
+C:\Users\HP\Desktop\Coding Bootcamp_5\C#_Projects\ListDemo\ListDemo\bin\Debug\ListDemo.exe
+C:\Users\HP\Desktop\Coding Bootcamp_5\C#_Projects\ListDemo\ListDemo\bin\Debug\ListDemo.pdb
+C:\Users\HP\Desktop\Coding Bootcamp_5\C#_Projects\ListDemo\ListDemo\obj\Debug\ListDemo.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Coding Bootcamp_5\C#_Projects\ListDemo\ListDemo\obj\Debug\ListDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Coding Bootcamp_5\C#_Projects\ListDemo\ListDemo\obj\Debug\ListDemo.exe
+C:\Users\HP\Desktop\Coding Bootcamp_5\C#_Projects\ListDemo\ListDemo\obj\Debug\ListDemo.pdb
