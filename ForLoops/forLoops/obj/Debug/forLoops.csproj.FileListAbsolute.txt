@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Coding Bootcamp 5\C#_Projects\forLoops\forLoops\bin\Debug\forLoops.exe.config
+C:\Users\HP\Desktop\Coding Bootcamp 5\C#_Projects\forLoops\forLoops\bin\Debug\forLoops.exe
+C:\Users\HP\Desktop\Coding Bootcamp 5\C#_Projects\forLoops\forLoops\bin\Debug\forLoops.pdb
+C:\Users\HP\Desktop\Coding Bootcamp 5\C#_Projects\forLoops\forLoops\obj\Debug\forLoops.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Coding Bootcamp 5\C#_Projects\forLoops\forLoops\obj\Debug\forLoops.exe
+C:\Users\HP\Desktop\Coding Bootcamp 5\C#_Projects\forLoops\forLoops\obj\Debug\forLoops.pdb
+C:\Users\HP\Desktop\Coding Bootcamp 5\C#_Projects\forLoops\forLoops\obj\Debug\forLoops.csprojAssemblyReference.cache
+D:\Coding Bootcamp 5\C#_Projects\forLoops\forLoops\bin\Debug\forLoops.exe.config
+D:\Coding Bootcamp 5\C#_Projects\forLoops\forLoops\bin\Debug\forLoops.exe
+D:\Coding Bootcamp 5\C#_Projects\forLoops\forLoops\bin\Debug\forLoops.pdb
+D:\Coding Bootcamp 5\C#_Projects\forLoops\forLoops\obj\Debug\forLoops.csprojResolveAssemblyReference.cache
+D:\Coding Bootcamp 5\C#_Projects\forLoops\forLoops\obj\Debug\forLoops.csproj.CoreCompileInputs.cache
+D:\Coding Bootcamp 5\C#_Projects\forLoops\forLoops\obj\Debug\forLoops.exe
+D:\Coding Bootcamp 5\C#_Projects\forLoops\forLoops\obj\Debug\forLoops.pdb
