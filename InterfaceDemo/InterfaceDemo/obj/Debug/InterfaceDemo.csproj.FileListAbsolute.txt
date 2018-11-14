@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\Coding Bootcamp 5\C#_Projects\InterfaceDemo\InterfaceDemo\bin\Debug\InterfaceDemo.exe.config
+C:\Users\HP\Desktop\Coding Bootcamp 5\C#_Projects\InterfaceDemo\InterfaceDemo\bin\Debug\InterfaceDemo.exe
+C:\Users\HP\Desktop\Coding Bootcamp 5\C#_Projects\InterfaceDemo\InterfaceDemo\bin\Debug\InterfaceDemo.pdb
+C:\Users\HP\Desktop\Coding Bootcamp 5\C#_Projects\InterfaceDemo\InterfaceDemo\obj\Debug\InterfaceDemo.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Coding Bootcamp 5\C#_Projects\InterfaceDemo\InterfaceDemo\obj\Debug\InterfaceDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Coding Bootcamp 5\C#_Projects\InterfaceDemo\InterfaceDemo\obj\Debug\InterfaceDemo.exe
+C:\Users\HP\Desktop\Coding Bootcamp 5\C#_Projects\InterfaceDemo\InterfaceDemo\obj\Debug\InterfaceDemo.pdb
