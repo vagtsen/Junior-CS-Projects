@@ -1,0 +1,34 @@
+D:\BootCamp3\ClassroomProjects\Humanity\Humanity\bin\Debug\Humanity.exe.config
+D:\BootCamp3\ClassroomProjects\Humanity\Humanity\bin\Debug\Humanity.exe
+D:\BootCamp3\ClassroomProjects\Humanity\Humanity\bin\Debug\Humanity.pdb
+D:\BootCamp3\ClassroomProjects\Humanity\Humanity\obj\Debug\Humanity.csprojResolveAssemblyReference.cache
+D:\BootCamp3\ClassroomProjects\Humanity\Humanity\obj\Debug\Humanity.exe
+D:\BootCamp3\ClassroomProjects\Humanity\Humanity\obj\Debug\Humanity.pdb
+C:\Users\Perakos\source\repos\LabHumanity\Humanity\Humanity\bin\Debug\Humanity.exe.config
+C:\Users\Perakos\source\repos\LabHumanity\Humanity\Humanity\bin\Debug\Humanity.exe
+C:\Users\Perakos\source\repos\LabHumanity\Humanity\Humanity\bin\Debug\Humanity.pdb
+C:\Users\Perakos\source\repos\LabHumanity\Humanity\Humanity\obj\Debug\Humanity.csprojResolveAssemblyReference.cache
+C:\Users\Perakos\source\repos\LabHumanity\Humanity\Humanity\obj\Debug\Humanity.csproj.CoreCompileInputs.cache
+C:\Users\Perakos\source\repos\LabHumanity\Humanity\Humanity\obj\Debug\Humanity.exe
+C:\Users\Perakos\source\repos\LabHumanity\Humanity\Humanity\obj\Debug\Humanity.pdb
+C:\Users\HP\Desktop\Coding Bootcamp_5\C#_Projects\LabHumanity\Humanity\Humanity\bin\Debug\Humanity.exe.config
+C:\Users\HP\Desktop\Coding Bootcamp_5\C#_Projects\LabHumanity\Humanity\Humanity\bin\Debug\Humanity.exe
+C:\Users\HP\Desktop\Coding Bootcamp_5\C#_Projects\LabHumanity\Humanity\Humanity\bin\Debug\Humanity.pdb
+C:\Users\HP\Desktop\Coding Bootcamp_5\C#_Projects\LabHumanity\Humanity\Humanity\obj\Debug\Humanity.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Coding Bootcamp_5\C#_Projects\LabHumanity\Humanity\Humanity\obj\Debug\Humanity.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Coding Bootcamp_5\C#_Projects\LabHumanity\Humanity\Humanity\obj\Debug\Humanity.exe
+C:\Users\HP\Desktop\Coding Bootcamp_5\C#_Projects\LabHumanity\Humanity\Humanity\obj\Debug\Humanity.pdb
+\\VAGGOS1-PC\Coding Bootcamp 5\C#_Projects\Humanity_Tsenes_Evangelos\Humanity\Humanity\bin\Debug\Humanity.exe.config
+\\VAGGOS1-PC\Coding Bootcamp 5\C#_Projects\Humanity_Tsenes_Evangelos\Humanity\Humanity\bin\Debug\Humanity.exe
+\\VAGGOS1-PC\Coding Bootcamp 5\C#_Projects\Humanity_Tsenes_Evangelos\Humanity\Humanity\bin\Debug\Humanity.pdb
+\\VAGGOS1-PC\Coding Bootcamp 5\C#_Projects\Humanity_Tsenes_Evangelos\Humanity\Humanity\obj\Debug\Humanity.csprojResolveAssemblyReference.cache
+\\VAGGOS1-PC\Coding Bootcamp 5\C#_Projects\Humanity_Tsenes_Evangelos\Humanity\Humanity\obj\Debug\Humanity.csproj.CoreCompileInputs.cache
+\\VAGGOS1-PC\Coding Bootcamp 5\C#_Projects\Humanity_Tsenes_Evangelos\Humanity\Humanity\obj\Debug\Humanity.exe
+\\VAGGOS1-PC\Coding Bootcamp 5\C#_Projects\Humanity_Tsenes_Evangelos\Humanity\Humanity\obj\Debug\Humanity.pdb
+D:\Coding Bootcamp 5\C#_Projects\Humanity_Tsenes_Evangelos\Humanity\bin\Debug\Humanity.exe.config
+D:\Coding Bootcamp 5\C#_Projects\Humanity_Tsenes_Evangelos\Humanity\bin\Debug\Humanity.exe
+D:\Coding Bootcamp 5\C#_Projects\Humanity_Tsenes_Evangelos\Humanity\bin\Debug\Humanity.pdb
+D:\Coding Bootcamp 5\C#_Projects\Humanity_Tsenes_Evangelos\Humanity\obj\Debug\Humanity.csprojResolveAssemblyReference.cache
+D:\Coding Bootcamp 5\C#_Projects\Humanity_Tsenes_Evangelos\Humanity\obj\Debug\Humanity.csproj.CoreCompileInputs.cache
+D:\Coding Bootcamp 5\C#_Projects\Humanity_Tsenes_Evangelos\Humanity\obj\Debug\Humanity.exe
+D:\Coding Bootcamp 5\C#_Projects\Humanity_Tsenes_Evangelos\Humanity\obj\Debug\Humanity.pdb
