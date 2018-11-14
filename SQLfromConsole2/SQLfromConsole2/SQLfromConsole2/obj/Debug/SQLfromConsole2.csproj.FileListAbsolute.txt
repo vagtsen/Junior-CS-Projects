@@ -1,0 +1,21 @@
+C:\Users\George\Desktop\Bootcamp5 Projects\SQL\SQLfromConsole2\SQLfromConsole2\obj\Debug\SQLfromConsole2.csprojAssemblyReference.cache
+C:\Users\George\Desktop\Bootcamp5 Projects\SQL\SQLfromConsole2\SQLfromConsole2\obj\Debug\SQLfromConsole2.csproj.CoreCompileInputs.cache
+C:\Users\George\Desktop\Bootcamp5 Projects\SQL\SQLfromConsole2\SQLfromConsole2\bin\Debug\SQLfromConsole2.exe.config
+C:\Users\George\Desktop\Bootcamp5 Projects\SQL\SQLfromConsole2\SQLfromConsole2\bin\Debug\SQLfromConsole2.exe
+C:\Users\George\Desktop\Bootcamp5 Projects\SQL\SQLfromConsole2\SQLfromConsole2\bin\Debug\SQLfromConsole2.pdb
+C:\Users\George\Desktop\Bootcamp5 Projects\SQL\SQLfromConsole2\SQLfromConsole2\obj\Debug\SQLfromConsole2.exe
+C:\Users\George\Desktop\Bootcamp5 Projects\SQL\SQLfromConsole2\SQLfromConsole2\obj\Debug\SQLfromConsole2.pdb
+C:\Users\HP\Desktop\Coding Bootcamp_5\C#_Projects\SQLfromConsole2\SQLfromConsole2\SQLfromConsole2\bin\Debug\SQLfromConsole2.exe.config
+C:\Users\HP\Desktop\Coding Bootcamp_5\C#_Projects\SQLfromConsole2\SQLfromConsole2\SQLfromConsole2\bin\Debug\SQLfromConsole2.exe
+C:\Users\HP\Desktop\Coding Bootcamp_5\C#_Projects\SQLfromConsole2\SQLfromConsole2\SQLfromConsole2\bin\Debug\SQLfromConsole2.pdb
+C:\Users\HP\Desktop\Coding Bootcamp_5\C#_Projects\SQLfromConsole2\SQLfromConsole2\SQLfromConsole2\obj\Debug\SQLfromConsole2.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Coding Bootcamp_5\C#_Projects\SQLfromConsole2\SQLfromConsole2\SQLfromConsole2\obj\Debug\SQLfromConsole2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Coding Bootcamp_5\C#_Projects\SQLfromConsole2\SQLfromConsole2\SQLfromConsole2\obj\Debug\SQLfromConsole2.exe
+C:\Users\HP\Desktop\Coding Bootcamp_5\C#_Projects\SQLfromConsole2\SQLfromConsole2\SQLfromConsole2\obj\Debug\SQLfromConsole2.pdb
+D:\Coding Bootcamp 5\C#_Projects\SQLfromConsole2\SQLfromConsole2\SQLfromConsole2\bin\Debug\SQLfromConsole2.exe.config
+D:\Coding Bootcamp 5\C#_Projects\SQLfromConsole2\SQLfromConsole2\SQLfromConsole2\bin\Debug\SQLfromConsole2.exe
+D:\Coding Bootcamp 5\C#_Projects\SQLfromConsole2\SQLfromConsole2\SQLfromConsole2\bin\Debug\SQLfromConsole2.pdb
+D:\Coding Bootcamp 5\C#_Projects\SQLfromConsole2\SQLfromConsole2\SQLfromConsole2\obj\Debug\SQLfromConsole2.csprojResolveAssemblyReference.cache
+D:\Coding Bootcamp 5\C#_Projects\SQLfromConsole2\SQLfromConsole2\SQLfromConsole2\obj\Debug\SQLfromConsole2.csproj.CoreCompileInputs.cache
+D:\Coding Bootcamp 5\C#_Projects\SQLfromConsole2\SQLfromConsole2\SQLfromConsole2\obj\Debug\SQLfromConsole2.exe
+D:\Coding Bootcamp 5\C#_Projects\SQLfromConsole2\SQLfromConsole2\SQLfromConsole2\obj\Debug\SQLfromConsole2.pdb
