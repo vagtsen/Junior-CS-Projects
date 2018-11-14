@@ -1,0 +1,22 @@
+C:\Users\HP\Desktop\Coding Bootcamp_5\C#_Projects\DelegateDemo\DelegateDemo\bin\Debug\netcoreapp2.1\DelegateDemo.deps.json
+C:\Users\HP\Desktop\Coding Bootcamp_5\C#_Projects\DelegateDemo\DelegateDemo\bin\Debug\netcoreapp2.1\DelegateDemo.runtimeconfig.json
+C:\Users\HP\Desktop\Coding Bootcamp_5\C#_Projects\DelegateDemo\DelegateDemo\bin\Debug\netcoreapp2.1\DelegateDemo.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Coding Bootcamp_5\C#_Projects\DelegateDemo\DelegateDemo\bin\Debug\netcoreapp2.1\DelegateDemo.dll
+C:\Users\HP\Desktop\Coding Bootcamp_5\C#_Projects\DelegateDemo\DelegateDemo\bin\Debug\netcoreapp2.1\DelegateDemo.pdb
+C:\Users\HP\Desktop\Coding Bootcamp_5\C#_Projects\DelegateDemo\DelegateDemo\obj\Debug\netcoreapp2.1\DelegateDemo.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Coding Bootcamp_5\C#_Projects\DelegateDemo\DelegateDemo\obj\Debug\netcoreapp2.1\DelegateDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Coding Bootcamp_5\C#_Projects\DelegateDemo\DelegateDemo\obj\Debug\netcoreapp2.1\DelegateDemo.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Coding Bootcamp_5\C#_Projects\DelegateDemo\DelegateDemo\obj\Debug\netcoreapp2.1\DelegateDemo.AssemblyInfo.cs
+C:\Users\HP\Desktop\Coding Bootcamp_5\C#_Projects\DelegateDemo\DelegateDemo\obj\Debug\netcoreapp2.1\DelegateDemo.dll
+C:\Users\HP\Desktop\Coding Bootcamp_5\C#_Projects\DelegateDemo\DelegateDemo\obj\Debug\netcoreapp2.1\DelegateDemo.pdb
+D:\Coding_Bootcamp_5\C#_Projects\DelegateDemo\DelegateDemo\bin\Debug\netcoreapp2.1\DelegateDemo.deps.json
+D:\Coding_Bootcamp_5\C#_Projects\DelegateDemo\DelegateDemo\bin\Debug\netcoreapp2.1\DelegateDemo.runtimeconfig.json
+D:\Coding_Bootcamp_5\C#_Projects\DelegateDemo\DelegateDemo\bin\Debug\netcoreapp2.1\DelegateDemo.runtimeconfig.dev.json
+D:\Coding_Bootcamp_5\C#_Projects\DelegateDemo\DelegateDemo\bin\Debug\netcoreapp2.1\DelegateDemo.dll
+D:\Coding_Bootcamp_5\C#_Projects\DelegateDemo\DelegateDemo\bin\Debug\netcoreapp2.1\DelegateDemo.pdb
+D:\Coding_Bootcamp_5\C#_Projects\DelegateDemo\DelegateDemo\obj\Debug\netcoreapp2.1\DelegateDemo.csprojAssemblyReference.cache
+D:\Coding_Bootcamp_5\C#_Projects\DelegateDemo\DelegateDemo\obj\Debug\netcoreapp2.1\DelegateDemo.csproj.CoreCompileInputs.cache
+D:\Coding_Bootcamp_5\C#_Projects\DelegateDemo\DelegateDemo\obj\Debug\netcoreapp2.1\DelegateDemo.AssemblyInfoInputs.cache
+D:\Coding_Bootcamp_5\C#_Projects\DelegateDemo\DelegateDemo\obj\Debug\netcoreapp2.1\DelegateDemo.AssemblyInfo.cs
+D:\Coding_Bootcamp_5\C#_Projects\DelegateDemo\DelegateDemo\obj\Debug\netcoreapp2.1\DelegateDemo.dll
+D:\Coding_Bootcamp_5\C#_Projects\DelegateDemo\DelegateDemo\obj\Debug\netcoreapp2.1\DelegateDemo.pdb
