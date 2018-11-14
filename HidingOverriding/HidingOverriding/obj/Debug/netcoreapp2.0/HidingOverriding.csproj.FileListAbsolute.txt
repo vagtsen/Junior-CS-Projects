@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\Coding Bootcamp_5\C#_Projects\HidingOverriding\HidingOverriding\bin\Debug\netcoreapp2.0\HidingOverriding.deps.json
+C:\Users\HP\Desktop\Coding Bootcamp_5\C#_Projects\HidingOverriding\HidingOverriding\bin\Debug\netcoreapp2.0\HidingOverriding.runtimeconfig.json
+C:\Users\HP\Desktop\Coding Bootcamp_5\C#_Projects\HidingOverriding\HidingOverriding\bin\Debug\netcoreapp2.0\HidingOverriding.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Coding Bootcamp_5\C#_Projects\HidingOverriding\HidingOverriding\bin\Debug\netcoreapp2.0\HidingOverriding.dll
+C:\Users\HP\Desktop\Coding Bootcamp_5\C#_Projects\HidingOverriding\HidingOverriding\bin\Debug\netcoreapp2.0\HidingOverriding.pdb
+C:\Users\HP\Desktop\Coding Bootcamp_5\C#_Projects\HidingOverriding\HidingOverriding\obj\Debug\netcoreapp2.0\HidingOverriding.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Coding Bootcamp_5\C#_Projects\HidingOverriding\HidingOverriding\obj\Debug\netcoreapp2.0\HidingOverriding.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Coding Bootcamp_5\C#_Projects\HidingOverriding\HidingOverriding\obj\Debug\netcoreapp2.0\HidingOverriding.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Coding Bootcamp_5\C#_Projects\HidingOverriding\HidingOverriding\obj\Debug\netcoreapp2.0\HidingOverriding.AssemblyInfo.cs
+C:\Users\HP\Desktop\Coding Bootcamp_5\C#_Projects\HidingOverriding\HidingOverriding\obj\Debug\netcoreapp2.0\HidingOverriding.dll
+C:\Users\HP\Desktop\Coding Bootcamp_5\C#_Projects\HidingOverriding\HidingOverriding\obj\Debug\netcoreapp2.0\HidingOverriding.pdb
